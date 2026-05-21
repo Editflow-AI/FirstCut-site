@@ -13,9 +13,13 @@ export default function Home() {
         Turn long footage into rough cuts in seconds.
       </p>
 
-      <button className="bg-black text-white px-6 py-3 rounded-xl">
-        Download DMG
-      </button>
+      <a
+       href="https://github.com/Editflow-AI/FirstCut/releases/download/v0.1.0-beta/FirstCut-0.1.0-beta.dmg"
+       target="_blank"
+       className="bg-black text-white px-6 py-3 rounded-xl"
+      >
+       Download DMG
+      </a>    
     </main>
   );
 }

@@ -14,7 +14,7 @@ export default function Home() {
       </p>
 
       <a
-       href="https://github.com/Editflow-AI/FirstCut/releases/tag/v0.1.0-beta#:~:text=3-,FirstCut%2D.dmg,-sha256%3Aacfa96b7c2b7dc5c7314e01ca1b4339f406a05b17e36271f2bc820813e776e1d"
+       href="https://github.com/Editflow-AI/FirstCut/releases/download/v0.1.0-beta/FirstCut-.dmg"
        target="_blank"
        className="bg-black text-white px-6 py-3 rounded-xl"
       >
